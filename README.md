@@ -24,7 +24,7 @@ The files that highlight my work are:
 - middle mouse: zoom in/out
 
 ## Commands:
-- ```system <sys_name> dim <Number of Particles>``` \n
+- ```system <sys_name> dim <Number of Particles>```
      Initializes the particle system to hold up to the given number of particles.
 - ```system <sys_name> particle <index> <mass> <x y z vx vy vz>``` 
      Sets a position, mass and velocity for a given particle.
