@@ -1,3 +1,5 @@
+# Spring System Assignment
+
 This repo contains my submission for the second assignment from UVic's CSC473 w/ Brandon Haworth.
 
 The base template of the assignment and sample input was provided by Brandon Haworth.
@@ -8,21 +10,20 @@ The files that highlight my work are:
 - Plane.cpp/.h
 - myScene.cpp (sections indicated)
 
-To Open: 
+## To Open: 
 - Select the solution file named "cs174-2010.sln"
 
-To Run:
+## To Run:
 - Commands can be issued through the console during runtime or in the "./Build/start.tcl" file.
 - One of the assignment's sample input files, "complex_cube.tcl", can be copied into into the "start.tcl" file for a more interesting output.
 
-Controls:
+## Controls:
 s - start/stop
 q - quit
 right mouse - rotate
 middle mouse - zoom in/out
 
-Commands:
-
+## Commands:
 $ system <sys_name> dim <Number of Particles>
      Initializes the particle system to hold up to the given number of particles.
 $ system <sys_name> particle <index> <mass> <x y z vx vy vz> 
