@@ -1,0 +1,2 @@
+D:\School Documents\csc473\a2\ComputerAnimationTemplate2019\lib\GLModel.pdb
+D:\School Documents\csc473\a2\ComputerAnimationTemplate2019\GLModel\Debug\GLModel.pdb
