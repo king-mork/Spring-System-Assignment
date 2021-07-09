@@ -1,6 +1,6 @@
 # Spring System Assignment
 
-This repo contains my submission for the second assignment from UVic's CSC473 w/ Brandon Haworth.
+This repo contains my submission for an animation assignment.
 
 The base template of the assignment and sample input was provided by Brandon Haworth.
 
